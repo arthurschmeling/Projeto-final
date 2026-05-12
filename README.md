@@ -36,7 +36,7 @@ O **Arcade JS** é um portal com três jogos clássicos desenvolvidos inteiramen
 ## 🗂️ Estrutura de Arquivos
 
 ```
-arcade-js/
+X video-games/
 ├── index.html          ← Portal principal (escolha o jogo)
 ├── jokenpo.html        ← Jogo 1: Pedra, Papel ou Tesoura
 ├── dados.html          ← Jogo 2: Batalha de Dados
