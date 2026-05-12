@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27653748/README.md)
+https://arthurschmeling.github.io/Projeto-final/
 # 🕹️ X video-Games — Portal de Jogos
 
 **Colégio ULBRA São Lucas · Curso Técnico em Informática**
